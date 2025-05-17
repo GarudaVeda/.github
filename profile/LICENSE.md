@@ -1,6 +1,6 @@
-# Garuda-Bodha License
+# GarudaVeda License
 
-**Garuda-Bodha**  
+**GarudaVeda**  
 **Copyright (c) 2025 Garuda-Vigyanam/M4YH3M-DEV**
 
 This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License** (CC BY-NC-ND 4.0).  
@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 You are free to:
 
 - **Share** - copy and redistribute the material in any medium or format.  
-- **Attribution** - You must give appropriate credit to [Your Company/Developer Name], provide a link to the license, and indicate if changes were made.  
+- **Attribution** - You must give appropriate credit to GarudaVeda, provide a link to the license, and indicate if changes were made.  
 
 Under the following terms:
 
