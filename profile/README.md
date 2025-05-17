@@ -89,6 +89,6 @@ For details, see [LICENSE](LICENSE.md).
 
 ## 🙏 Acknowledgements
 
-Thank you to everyone who helps make Garuda-Bodha better for the global developer community!
+Thank you to everyone who helps make *GarudaVeda* better for the global developer community!
 
 ---
