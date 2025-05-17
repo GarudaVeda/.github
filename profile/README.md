@@ -1,14 +1,14 @@
 # GarudaVeda
 
-**The Next-Gen Developer Community & Learning Platform**
+**Because Ordinary is Overrated**
 
-![Garuda-Bodha Banner](garuda-bodha-banner.png)
+![GarudaVeda Banner](garudaveda_banner.png)
 
 ---
 
 ## 🚀 Overview
 
-**Garuda-Bodha** is a golden-dark themed, all-in-one SaaS platform for developer learning, collaboration, and career growth.  
+**GarudaVeda** is a golden-dark themed, all-in-one SaaS platform for developer learning, collaboration, and career growth.  
 Our mission is to empower students, enthusiasts, and professionals to learn, collaborate, and showcase their skills through real-world projects, hackathons, and a vibrant peer community.
 
 **Note:**  
@@ -45,7 +45,7 @@ We invite all users, testers, and community members to help us improve Garuda-Bo
 - **Reporting bugs:** Find something broken? [Open an issue](https://github.com/garudaveda/issues).
 - **Requesting features:** Have an idea for a new feature or improvement? Let us know!
 - **Giving feedback:** Share your experience, suggestions, or UI/UX feedback.
-- **Tagging us:** Use `@garuda-bodha` on social media or GitHub for shoutouts and testimonials.
+- **Tagging us:** Use `@garuda_veda` on social media or GitHub for shoutouts and testimonials.
 
 > **Note:**  
 > Please do **not** request access to the source code or attempt to reverse-engineer the platform.  
@@ -92,15 +92,3 @@ For details, see [LICENSE](LICENSE.md).
 Thank you to everyone who helps make Garuda-Bodha better for the global developer community!
 
 ---
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
